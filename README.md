@@ -232,5 +232,4 @@ sudo dnf install git
 *Happy coding with Visual Studio Code! 🚀*
 
 ---
-
-*This guide is continuously updated with best practices and latest features. Feel free to contribute or suggest improvements.*
+*Note: This guide is for testing purposes only.*
