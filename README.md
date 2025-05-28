@@ -232,4 +232,4 @@ sudo dnf install git
 *Happy coding with Visual Studio Code! 🚀*
 
 ---
-*Note: This guide is for testing purposes only.*
+*This document serves as a test for creating a README file.*
